@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5NaPRIRgl759K5rdLLdX6J3wQs8JVejbx2QhCxNOpon///y4uRbykMwEEI4YUSlNlp5/JFaVECdkvGm19q1kQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Lab\\3. Simple Calculator\\3. Simple Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

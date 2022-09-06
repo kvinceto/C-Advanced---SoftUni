@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtNeyGwxlaT70crOJrmide3N3PjVUnVa6D0z4HB7FCUbpDo2VFXec8MoTmOxzRZouJj71ZimG4By4769ybzq2Q==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Lab\\5. Print Even Numbers\\5. Print Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

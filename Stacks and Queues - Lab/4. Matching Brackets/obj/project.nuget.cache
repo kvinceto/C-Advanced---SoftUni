@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMdam9gxTxu2nhpOjfVSqHSga4ERNzdcQxBe0Timu6fmV2uvThliTuE4VZAhD8pqv4+Hsj/NQbg4kd17Z8QsMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

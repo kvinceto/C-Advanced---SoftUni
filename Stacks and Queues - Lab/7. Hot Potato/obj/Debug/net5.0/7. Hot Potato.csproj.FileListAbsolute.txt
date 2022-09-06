@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\ref\7. Hot Potato.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\ref\7. Hot Potato.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.genruntimeconfig.cache

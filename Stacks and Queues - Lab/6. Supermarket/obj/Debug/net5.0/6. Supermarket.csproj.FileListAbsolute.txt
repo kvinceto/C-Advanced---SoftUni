@@ -1,0 +1,15 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\ref\6. Supermarket.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\ref\6. Supermarket.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.genruntimeconfig.cache

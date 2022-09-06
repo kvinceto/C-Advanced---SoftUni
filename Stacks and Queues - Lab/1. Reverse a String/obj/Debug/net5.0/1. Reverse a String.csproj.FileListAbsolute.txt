@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\ref\1. Reverse a String.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\ref\1. Reverse a String.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.genruntimeconfig.cache

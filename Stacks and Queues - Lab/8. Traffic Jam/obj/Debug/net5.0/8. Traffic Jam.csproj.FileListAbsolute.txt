@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\ref\8. Traffic Jam.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\ref\8. Traffic Jam.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.genruntimeconfig.cache

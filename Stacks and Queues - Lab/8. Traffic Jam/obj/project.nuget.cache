@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lX0DjyWZRmjgpIxPlFisCQ8gF0M43gCYUoiDdBSx1nJDNhJxNa27jSHbrwOdryqPtVFy3SB6GKGD2BkKutGiZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Lab\\8. Traffic Jam\\8. Traffic Jam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

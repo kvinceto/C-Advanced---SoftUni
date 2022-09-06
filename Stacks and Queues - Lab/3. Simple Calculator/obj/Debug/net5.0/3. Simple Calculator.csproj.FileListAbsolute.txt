@@ -1,0 +1,15 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\ref\3. Simple Calculator.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\ref\3. Simple Calculator.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.genruntimeconfig.cache
