@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\ref\4. Symbol in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMOL6xrMXyFZRNDyJrj3BgK0YHBPiNlfE1UW4tt+w6YXnOh0QYZzunbgzdS6P/Pk9Y8h+Fl/5obeSE5OOxOmmA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Multidimensional Arrays - Lab\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

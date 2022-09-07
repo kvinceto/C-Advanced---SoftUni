@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuEUmPZAUWDEy+JhstNa2jzBLHCzcHdEie/3XnVF4Z52gmJvXmDXLsLrYVTLwD1c5owA/WESc8aMg9nGDq4sDg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Multidimensional Arrays - Lab\\3. Primary Diagonal\\3. Primary Diagonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

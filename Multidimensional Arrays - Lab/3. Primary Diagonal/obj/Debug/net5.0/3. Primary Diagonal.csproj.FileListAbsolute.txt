@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\ref\3. Primary Diagonal.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\ref\3. Primary Diagonal.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.genruntimeconfig.cache

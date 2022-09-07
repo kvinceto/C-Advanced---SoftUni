@@ -1,0 +1,15 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\ref\7. Pascal Triangle.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\ref\7. Pascal Triangle.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.genruntimeconfig.cache

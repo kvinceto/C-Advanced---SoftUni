@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.genruntimeconfig.cache

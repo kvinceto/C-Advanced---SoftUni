@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.genruntimeconfig.cache
