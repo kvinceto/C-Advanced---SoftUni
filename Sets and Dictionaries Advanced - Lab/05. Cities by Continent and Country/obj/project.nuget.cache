@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpbdZND77xqx3MZP0c4xFgR0W4i/U7P1iC0cRzns0ND2tBnZ3nlr1EpJJnbqY6HRoFKvZNoFXyqYTAlNCXDFcw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Lab\\05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

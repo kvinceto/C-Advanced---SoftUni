@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qdQ3cuf7wK/IT6Q2LHTr9rGFp0nW1m3WhA3yUslwpQsmDj9k9QpYKynmk7AJxp1GSO2Nsrspltk/O8Y//+Dzg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

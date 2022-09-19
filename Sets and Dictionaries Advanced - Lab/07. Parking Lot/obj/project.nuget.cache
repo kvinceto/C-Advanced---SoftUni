@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6Va0GxUny1ykhP4OLEvGXBsThzmg+KEnxetczaCRpmwoqvK5GJFRqKtxorE+UFvCDznerKl/l6ZdZrK7Ay8FA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Lab\\07. Parking Lot\\07. Parking Lot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
