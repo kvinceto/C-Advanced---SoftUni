@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VC1LZoROI+o6huxXHgC9vLugey4SogGJyyKsBWOwagCaHb2ITyL1Mq86pxoYQWs0kM8MQ23LW8j8uQFZNYZrVw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Exercise\\10. Crossroads\\10. Crossroads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f10d7917-491e-440e-a11a-12d6fbaf3ec8": {
+      "ProjectGuid": "f10d7917-491e-440e-a11a-12d6fbaf3ec8",
+      "DisplayName": "01. Basic Stack Operations",
+      "ColorIndex": 0
+    },
+    "73d44669-8673-4ea8-97ec-7aea3183a8b8": {
+      "ProjectGuid": "73d44669-8673-4ea8-97ec-7aea3183a8b8",
+      "DisplayName": "02. Basic Queue Operations",
+      "ColorIndex": 1
+    },
+    "8ed86ae3-dc61-4bcc-a424-c39bea2115cd": {
+      "ProjectGuid": "8ed86ae3-dc61-4bcc-a424-c39bea2115cd",
+      "DisplayName": "03. Maximum and Minimum Element",
+      "ColorIndex": 2
+    },
+    "b9bc8147-c21a-499a-947d-7c945e95896c": {
+      "ProjectGuid": "b9bc8147-c21a-499a-947d-7c945e95896c",
+      "DisplayName": "04. Fast Food",
+      "ColorIndex": 3
+    },
+    "60adada2-b809-4479-abc0-429c10985cff": {
+      "ProjectGuid": "60adada2-b809-4479-abc0-429c10985cff",
+      "DisplayName": "05. Fashion Boutique",
+      "ColorIndex": 4
+    },
+    "f90e265c-ac94-46fc-a1cd-b8f5364a4aa3": {
+      "ProjectGuid": "f90e265c-ac94-46fc-a1cd-b8f5364a4aa3",
+      "DisplayName": "06. Songs Queue",
+      "ColorIndex": 5
+    },
+    "a27dd727-906d-48a8-9f82-9e2f998cda63": {
+      "ProjectGuid": "a27dd727-906d-48a8-9f82-9e2f998cda63",
+      "DisplayName": "07. Truck Tour",
+      "ColorIndex": 6
+    },
+    "5166c536-6f64-4327-ad4a-7e8428c5569f": {
+      "ProjectGuid": "5166c536-6f64-4327-ad4a-7e8428c5569f",
+      "DisplayName": "08. Balanced Parenthesis",
+      "ColorIndex": 7
+    },
+    "1dba22a7-1396-43f3-9695-4156576047e7": {
+      "ProjectGuid": "1dba22a7-1396-43f3-9695-4156576047e7",
+      "DisplayName": "09. Simple Text Editor",
+      "ColorIndex": 8
+    },
+    "dabf1795-b4c5-46bf-b83a-629ac34c67f2": {
+      "ProjectGuid": "dabf1795-b4c5-46bf-b83a-629ac34c67f2",
+      "DisplayName": "10. Crossroads",
+      "ColorIndex": 9
+    },
+    "41ea931c-c247-40bd-b2f5-fc15221273b8": {
+      "ProjectGuid": "41ea931c-c247-40bd-b2f5-fc15221273b8",
+      "DisplayName": "11. Key Revolver",
+      "ColorIndex": 10
+    },
+    "38665167-ea94-4d68-9977-2c4d87d6fbdc": {
+      "ProjectGuid": "38665167-ea94-4d68-9977-2c4d87d6fbdc",
+      "DisplayName": "12. Cups and Bottles",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

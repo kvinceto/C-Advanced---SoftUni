@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQ/FTtY+OUpB0sGtxZApsjXkIX0T7609pQYFvVE8tS3kruO8tHuKNqnInHkxKrXhZDW4mhht+iwfLlA6xxvuTg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Multidimensional Arrays - Exercise\\9. Miner\\9. Miner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\ref\4. Matrix Shuffling.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\ref\4. Matrix Shuffling.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.genruntimeconfig.cache

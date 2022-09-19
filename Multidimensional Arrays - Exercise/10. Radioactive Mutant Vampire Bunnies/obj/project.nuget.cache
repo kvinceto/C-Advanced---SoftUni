@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uALhTxfHIiHEZFie/dRILwdjCLrRWOwaf64/TMUzasPOcNh1K3KnfNREksTiaOCiV/hMb79rB/k4xdAyU8zpOA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Multidimensional Arrays - Exercise\\10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

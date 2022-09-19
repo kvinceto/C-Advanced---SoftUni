@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\ref\06. Songs Queue.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\ref\06. Songs Queue.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.genruntimeconfig.cache

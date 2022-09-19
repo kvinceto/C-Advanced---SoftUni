@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3eCR9AYaZ3vZBzbOFuBlblsJCv3i+kB6xkDvkxKYkOIvUanxgiP5TVw3B7F4qxKJlTeePcD0Xx0PvW1HXO7lw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

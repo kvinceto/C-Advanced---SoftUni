@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0jAHz94g0JxvxaJuFKL9LinqbGQqGoCtOWFHNMJoSMb4esrX9eCrAyWirFtxA0H6hlzaFMZ5QBQEiR0W9oqag==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Exercise\\04. Fast Food\\04. Fast Food.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

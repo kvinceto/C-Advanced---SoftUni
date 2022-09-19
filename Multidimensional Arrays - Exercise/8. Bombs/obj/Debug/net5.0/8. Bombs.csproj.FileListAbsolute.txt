@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\ref\8. Bombs.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\net5.0\8. Bombs.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\ref\8. Bombs.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\net5.0\8. Bombs.genruntimeconfig.cache

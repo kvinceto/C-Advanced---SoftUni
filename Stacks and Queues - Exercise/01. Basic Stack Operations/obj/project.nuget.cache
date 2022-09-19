@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3fl18VGHtza+Q+4BXIeLnO05ftDalgd4CWX42R5Av17CsuXwn0PghdlwVImEUlRD4d6NFPK3foHX8qoM6EGIg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

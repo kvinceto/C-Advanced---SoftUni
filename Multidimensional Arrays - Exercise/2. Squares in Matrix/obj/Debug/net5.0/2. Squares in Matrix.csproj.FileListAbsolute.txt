@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\ref\2. Squares in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\ref\2. Squares in Matrix.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.genruntimeconfig.cache

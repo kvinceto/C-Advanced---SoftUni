@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\net5.0\ref\10. Crossroads.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\net5.0\10. Crossroads.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\ref\10. Crossroads.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\net5.0\10. Crossroads.genruntimeconfig.cache

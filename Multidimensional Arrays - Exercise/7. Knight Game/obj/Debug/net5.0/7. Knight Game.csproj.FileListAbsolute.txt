@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\ref\7. Knight Game.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\ref\7. Knight Game.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.genruntimeconfig.cache

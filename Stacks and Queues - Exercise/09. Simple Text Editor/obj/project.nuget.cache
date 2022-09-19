@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXzZC5hwwKG/Mcfc6qVXBplE2X7W1F1ppDCAQMZfs10v+XXi7dZz0NlMI0ekzlhkri529krNTZ/N9qVx2jPbkg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Exercise\\09. Simple Text Editor\\09. Simple Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

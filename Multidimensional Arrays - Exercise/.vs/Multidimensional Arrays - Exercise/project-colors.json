@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9034430-9486-4128-9cde-e224ba1e780c": {
+      "ProjectGuid": "f9034430-9486-4128-9cde-e224ba1e780c",
+      "DisplayName": "1. Diagonal Difference",
+      "ColorIndex": 0
+    },
+    "4c5bdce8-b71f-44f4-af0b-d60d931ce64e": {
+      "ProjectGuid": "4c5bdce8-b71f-44f4-af0b-d60d931ce64e",
+      "DisplayName": "2. Squares in Matrix",
+      "ColorIndex": 1
+    },
+    "fa2d6582-1071-4f30-bf8a-8f4d84c0e316": {
+      "ProjectGuid": "fa2d6582-1071-4f30-bf8a-8f4d84c0e316",
+      "DisplayName": "3. Maximal Sum",
+      "ColorIndex": 2
+    },
+    "c41927ba-e2be-44ca-8133-a9937a3f5a62": {
+      "ProjectGuid": "c41927ba-e2be-44ca-8133-a9937a3f5a62",
+      "DisplayName": "4. Matrix Shuffling",
+      "ColorIndex": 3
+    },
+    "f849df11-d312-4267-b81c-bd86bd417852": {
+      "ProjectGuid": "f849df11-d312-4267-b81c-bd86bd417852",
+      "DisplayName": "5. Snake Moves",
+      "ColorIndex": 4
+    },
+    "96ded4e7-4f20-496c-bc90-8a9bd52621f4": {
+      "ProjectGuid": "96ded4e7-4f20-496c-bc90-8a9bd52621f4",
+      "DisplayName": "6. Jagged Array Manipulator",
+      "ColorIndex": 5
+    },
+    "97b0ca18-60fa-4cae-a07f-c13020d08d87": {
+      "ProjectGuid": "97b0ca18-60fa-4cae-a07f-c13020d08d87",
+      "DisplayName": "7. Knight Game",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c43d36ee-3cd3-4eff-8105-20cc16f2077f": {
+      "ProjectGuid": "c43d36ee-3cd3-4eff-8105-20cc16f2077f",
+      "DisplayName": "8. Bombs",
+      "ColorIndex": 7
+    },
+    "9258fdba-0cc2-4cdf-addb-df0372e00a47": {
+      "ProjectGuid": "9258fdba-0cc2-4cdf-addb-df0372e00a47",
+      "DisplayName": "9. Miner",
+      "ColorIndex": 8
+    },
+    "9c13cea4-cb8d-44ec-9afc-18aedfca41dd": {
+      "ProjectGuid": "9c13cea4-cb8d-44ec-9afc-18aedfca41dd",
+      "DisplayName": "10. Radioactive Mutant Vampire Bunnies",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

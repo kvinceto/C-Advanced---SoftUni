@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\ref\1. Diagonal Difference.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\ref\1. Diagonal Difference.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.genruntimeconfig.cache

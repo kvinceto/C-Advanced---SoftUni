@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/I+dzXCdRsWwpU/3D3sEo3XtKEVH/vcyo0JiOzVkNQeAWLLYW5bjxOCRFMbhgWW7mBoO8pD6jR2+A9/vIijLg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Stacks and Queues - Exercise\\11. Key Revolver\\11. Key Revolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

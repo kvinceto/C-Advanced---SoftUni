@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\ref\09. Simple Text Editor.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\ref\09. Simple Text Editor.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.genruntimeconfig.cache

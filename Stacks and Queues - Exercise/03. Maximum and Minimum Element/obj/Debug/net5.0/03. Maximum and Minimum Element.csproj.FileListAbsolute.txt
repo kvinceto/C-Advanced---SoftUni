@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.exe
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.deps.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\ref\03. Maximum and Minimum Element.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\ref\03. Maximum and Minimum Element.dll
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Programs kvi\C-Advanced files\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.genruntimeconfig.cache

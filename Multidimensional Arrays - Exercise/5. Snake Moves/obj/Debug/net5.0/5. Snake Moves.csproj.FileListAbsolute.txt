@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.exe
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.deps.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\ref\5. Snake Moves.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\ref\5. Snake Moves.dll
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.pdb
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.genruntimeconfig.cache
+D:\Programs kvi\C-Advanced files\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.AssemblyReference.cache
