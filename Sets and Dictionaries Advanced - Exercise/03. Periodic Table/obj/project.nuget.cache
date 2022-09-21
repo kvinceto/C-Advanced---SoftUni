@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNgHjHQvM11ssMbQmzMue+LDnafsxXMkbKD9WNuTLqkFVNzAF3zFzj8GQ8QIfXimmDhK8VFQkC5KTFKCv5ESuA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\03. Periodic Table\\03. Periodic Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

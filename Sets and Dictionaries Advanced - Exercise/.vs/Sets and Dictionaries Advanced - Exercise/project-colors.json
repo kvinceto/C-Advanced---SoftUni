@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9b2dfd4-179e-4bfc-964d-561491faaa19": {
+      "ProjectGuid": "d9b2dfd4-179e-4bfc-964d-561491faaa19",
+      "DisplayName": "01. Unique Usernames",
+      "ColorIndex": 0
+    },
+    "85f73aca-3d52-4194-8e8f-92c234d144b7": {
+      "ProjectGuid": "85f73aca-3d52-4194-8e8f-92c234d144b7",
+      "DisplayName": "02. Sets of Elements",
+      "ColorIndex": 1
+    },
+    "0abfc41d-729c-4f1e-ad54-23126d5023c3": {
+      "ProjectGuid": "0abfc41d-729c-4f1e-ad54-23126d5023c3",
+      "DisplayName": "03. Periodic Table",
+      "ColorIndex": 2
+    },
+    "391c663e-06a5-4e01-9b28-a7c512fc3403": {
+      "ProjectGuid": "391c663e-06a5-4e01-9b28-a7c512fc3403",
+      "DisplayName": "04. Even Times",
+      "ColorIndex": 3
+    },
+    "7dbb3b46-c4b0-49e2-ae2a-9f2963e2ba9b": {
+      "ProjectGuid": "7dbb3b46-c4b0-49e2-ae2a-9f2963e2ba9b",
+      "DisplayName": "05. Count Symbols",
+      "ColorIndex": 4
+    },
+    "96f16ead-36a4-453a-89aa-f2ba916d466c": {
+      "ProjectGuid": "96f16ead-36a4-453a-89aa-f2ba916d466c",
+      "DisplayName": "06. Wardrobe",
+      "ColorIndex": 5
+    },
+    "d921dbf1-23e0-44c9-a153-108c65d19caf": {
+      "ProjectGuid": "d921dbf1-23e0-44c9-a153-108c65d19caf",
+      "DisplayName": "07. The V-Logger",
+      "ColorIndex": 6
+    },
+    "2361b298-3d50-4f4a-96ea-17b38c5dbdd7": {
+      "ProjectGuid": "2361b298-3d50-4f4a-96ea-17b38c5dbdd7",
+      "DisplayName": "08. Ranking",
+      "ColorIndex": 7
+    },
+    "fab0d958-94e9-44d0-b7ad-49d45d176c83": {
+      "ProjectGuid": "fab0d958-94e9-44d0-b7ad-49d45d176c83",
+      "DisplayName": "09. SoftUni Exam Results",
+      "ColorIndex": 8
+    },
+    "2493a697-79a0-460d-bb87-2e96dada7b39": {
+      "ProjectGuid": "2493a697-79a0-460d-bb87-2e96dada7b39",
+      "DisplayName": "10. ForceBook",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

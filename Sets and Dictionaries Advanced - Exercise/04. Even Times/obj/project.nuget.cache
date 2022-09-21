@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBxiIfY0NeyHjAW6UXqV0gDESHUQSkMPQh258RwgkoD2Vgabk1Z90G60hNhwHsMwnXdzTxqpidgm4O5eJZGxtQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\04. Even Times\\04. Even Times.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikFvjtdy7oYY01u93cpVjotFxgKhr1m2rCfWGRNau8HWmj7R3kz/J6MveXWYw9waYXNHmxLOWvSo7AnDP3Tfpg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\05. Count Symbols\\05. Count Symbols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

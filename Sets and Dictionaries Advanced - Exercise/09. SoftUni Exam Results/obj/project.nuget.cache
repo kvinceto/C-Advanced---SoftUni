@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLc/at9EKf5dqUmCSW9xos+08AQyo0CQY0jlKZoc/y/5X7xw/0N9ps4BN/VYZEh9/XqtcMBkw6XxA/9wCfvzfA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.exe
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.deps.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\ref\10. ForceBook.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\ref\10. ForceBook.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.genruntimeconfig.cache

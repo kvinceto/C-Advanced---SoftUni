@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wm1ofZQQZSlXYifajAyMiHN4elv5qIDssEOLwOkZB9qBNyQFvXiqk8vJlNz7mqzw8p/EIjQN8dqM1ax+3MfQtg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\08. Ranking\\08. Ranking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUkC8hnRL02n+j1wbl6bp6/id8X8cfysjXMV3oU7ETrMhJI0gzcPfaECC9w7yEU9uTUKvzPnUD67uvnDyJkxxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\02. Sets of Elements\\02. Sets of Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

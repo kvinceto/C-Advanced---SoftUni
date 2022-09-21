@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.exe
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.deps.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\ref\06. Wardrobe.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\ref\06. Wardrobe.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.genruntimeconfig.cache

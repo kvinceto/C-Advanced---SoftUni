@@ -1,0 +1,15 @@
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.exe
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.deps.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\ref\03. Periodic Table.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\ref\03. Periodic Table.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.genruntimeconfig.cache

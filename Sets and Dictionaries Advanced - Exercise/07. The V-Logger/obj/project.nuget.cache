@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcSCyCIfeyLA4iyn6ViFZZN9crDZQtUY2QDz+ISW5T/42y/RbUvMadMiCfhG4KWTnVRfdBes/qFwxMSFPwcsvA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\07. The V-Logger\\07. The V-Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

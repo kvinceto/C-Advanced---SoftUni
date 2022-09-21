@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nrqQfWOTdmuH6IO7UZR3rXkPgz98XafOIHcmCDcCL/elLBrOsev6s3OiuiPdS0td8DcM7QKCHDtBsWhGQnfknQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\C-Advanced files\\Sets and Dictionaries Advanced - Exercise\\10. ForceBook\\10. ForceBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.exe
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.deps.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.runtimeconfig.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.runtimeconfig.dev.json
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\ref\09. SoftUni Exam Results.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net5.0\09. SoftUni Exam Results.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.csproj.AssemblyReference.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.AssemblyInfo.cs
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\ref\09. SoftUni Exam Results.dll
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.pdb
+D:\Programs kvi\C-Advanced files\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net5.0\09. SoftUni Exam Results.genruntimeconfig.cache
