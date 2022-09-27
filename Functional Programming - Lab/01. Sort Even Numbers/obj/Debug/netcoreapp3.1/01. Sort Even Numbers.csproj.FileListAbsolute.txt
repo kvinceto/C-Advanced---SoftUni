@@ -1,0 +1,14 @@
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.exe
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.deps.json
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.json
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.dev.json
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csproj.AssemblyReference.cache
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfo.cs
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.genruntimeconfig.cache

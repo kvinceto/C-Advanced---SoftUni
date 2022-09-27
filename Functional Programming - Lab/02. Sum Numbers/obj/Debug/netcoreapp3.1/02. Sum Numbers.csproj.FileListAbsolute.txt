@@ -1,0 +1,14 @@
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.exe
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.deps.json
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.json
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.dev.json
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.dll
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.pdb
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.csproj.AssemblyReference.cache
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfoInputs.cache
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfo.cs
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.dll
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.pdb
+D:\Programs kvi\C#-Advanced files\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.genruntimeconfig.cache
