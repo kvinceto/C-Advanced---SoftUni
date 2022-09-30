@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b7cf723-8797-449c-a699-7661cb826ca1": {
+      "ProjectGuid": "2b7cf723-8797-449c-a699-7661cb826ca1",
+      "DisplayName": "01. Action Print",
+      "ColorIndex": 0
+    },
+    "a3c941d2-e4c2-41f2-adaa-8fcec52625e0": {
+      "ProjectGuid": "a3c941d2-e4c2-41f2-adaa-8fcec52625e0",
+      "DisplayName": "02. Knights of Honor",
+      "ColorIndex": 1
+    },
+    "195c2d81-dfc2-4e38-ae05-afebb98dfe19": {
+      "ProjectGuid": "195c2d81-dfc2-4e38-ae05-afebb98dfe19",
+      "DisplayName": "03. Custom Min Function",
+      "ColorIndex": 2
+    },
+    "076d0773-fc1e-4734-bb02-5b6bc540f60b": {
+      "ProjectGuid": "076d0773-fc1e-4734-bb02-5b6bc540f60b",
+      "DisplayName": "04. Find Evens or Odds",
+      "ColorIndex": 3
+    },
+    "ac15d0b1-78c4-4920-af9b-4099b0e7ee69": {
+      "ProjectGuid": "ac15d0b1-78c4-4920-af9b-4099b0e7ee69",
+      "DisplayName": "05. Applied Arithmetics",
+      "ColorIndex": 4
+    },
+    "5f683dff-350a-4a23-af08-3aacfac19aa1": {
+      "ProjectGuid": "5f683dff-350a-4a23-af08-3aacfac19aa1",
+      "DisplayName": "06. Reverse And Exclude",
+      "ColorIndex": 5
+    },
+    "e79240b1-7090-4701-8043-fc30969eb66f": {
+      "ProjectGuid": "e79240b1-7090-4701-8043-fc30969eb66f",
+      "DisplayName": "07. Predicate For Names",
+      "ColorIndex": 6
+    },
+    "4e4234c7-b46c-4f19-901d-e0487bb9b541": {
+      "ProjectGuid": "4e4234c7-b46c-4f19-901d-e0487bb9b541",
+      "DisplayName": "08. List Of Predicates",
+      "ColorIndex": 7
+    },
+    "c080ad3d-6e18-4afd-9398-ce927a15e8f3": {
+      "ProjectGuid": "c080ad3d-6e18-4afd-9398-ce927a15e8f3",
+      "DisplayName": "09. Predicate Party!",
+      "ColorIndex": 8
+    },
+    "c442d04c-40cc-419c-a448-662c16fbbdae": {
+      "ProjectGuid": "c442d04c-40cc-419c-a448-662c16fbbdae",
+      "DisplayName": "10. The Party Reservation Filter Module",
+      "ColorIndex": 9
+    },
+    "a67c915e-ef29-43a2-a4a3-eb877e3aed39": {
+      "ProjectGuid": "a67c915e-ef29-43a2-a4a3-eb877e3aed39",
+      "DisplayName": "11. TriFunction",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
