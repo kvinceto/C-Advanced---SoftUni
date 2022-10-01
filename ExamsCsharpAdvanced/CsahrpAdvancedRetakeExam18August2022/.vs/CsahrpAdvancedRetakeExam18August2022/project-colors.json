@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f54ecb85-6b86-404f-ac08-68d58d9d688a": {
+      "ProjectGuid": "f54ecb85-6b86-404f-ac08-68d58d9d688a",
+      "DisplayName": "01. Barista Contest",
+      "ColorIndex": 0
+    },
+    "0d0b40b7-16f9-4952-b560-51cc21d8be98": {
+      "ProjectGuid": "0d0b40b7-16f9-4952-b560-51cc21d8be98",
+      "DisplayName": "02. Help-A-Mole",
+      "ColorIndex": 1
+    },
+    "e5482151-ab6e-40a0-b218-5666dca8c111": {
+      "ProjectGuid": "e5482151-ab6e-40a0-b218-5666dca8c111",
+      "DisplayName": "Basketball",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
