@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c58c9a2-03e4-48ed-8b87-2e21fe397bda": {
+      "ProjectGuid": "6c58c9a2-03e4-48ed-8b87-2e21fe397bda",
+      "DisplayName": "01. Meal Plan",
+      "ColorIndex": 0
+    },
+    "8c029ca2-8bc2-47a4-b7df-c82c64c47db4": {
+      "ProjectGuid": "8c029ca2-8bc2-47a4-b7df-c82c64c47db4",
+      "DisplayName": "02. Truffle Hunter",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
