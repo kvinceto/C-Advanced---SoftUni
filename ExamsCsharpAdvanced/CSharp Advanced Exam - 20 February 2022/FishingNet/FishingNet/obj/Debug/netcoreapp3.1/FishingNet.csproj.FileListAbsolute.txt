@@ -1,0 +1,14 @@
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

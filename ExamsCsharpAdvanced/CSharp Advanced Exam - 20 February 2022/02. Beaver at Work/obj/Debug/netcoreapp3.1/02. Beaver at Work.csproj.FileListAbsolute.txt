@@ -1,0 +1,14 @@
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.AssemblyReference.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfoInputs.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfo.cs
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.exe
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.deps.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.dev.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.dll
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.dll
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.exe
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.deps.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.dev.json
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.dll
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.AssemblyReference.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfoInputs.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfo.cs
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.CoreCompileInputs.cache
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.dll
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+D:\Programs kvi\C#-Advanced files\CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.genruntimeconfig.cache
