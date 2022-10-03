@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7588c1d-d3b0-467a-9fb7-c7e8debf5358": {
+      "ProjectGuid": "c7588c1d-d3b0-467a-9fb7-c7e8debf5358",
+      "DisplayName": "01. Blacksmith",
+      "ColorIndex": 0
+    },
+    "734c1df9-82ac-46f1-b485-b5d12e772b88": {
+      "ProjectGuid": "734c1df9-82ac-46f1-b485-b5d12e772b88",
+      "DisplayName": "02. Armory",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
