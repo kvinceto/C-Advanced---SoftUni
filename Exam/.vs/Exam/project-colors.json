@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6aaa099-6200-43e5-b444-5b8fb53687bf": {
+      "ProjectGuid": "f6aaa099-6200-43e5-b444-5b8fb53687bf",
+      "DisplayName": "01EnergyDrinks",
+      "ColorIndex": 0
+    },
+    "6a8e4211-ccf1-4ac7-9664-1eccf0549540": {
+      "ProjectGuid": "6a8e4211-ccf1-4ac7-9664-1eccf0549540",
+      "DisplayName": "02RallyRacing",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
