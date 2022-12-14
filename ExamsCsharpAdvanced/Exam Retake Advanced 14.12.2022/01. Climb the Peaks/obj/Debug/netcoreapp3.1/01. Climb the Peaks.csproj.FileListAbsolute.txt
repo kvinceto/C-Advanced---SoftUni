@@ -1,0 +1,14 @@
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\bin\Debug\netcoreapp3.1\01. Climb the Peaks.exe
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\bin\Debug\netcoreapp3.1\01. Climb the Peaks.deps.json
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\bin\Debug\netcoreapp3.1\01. Climb the Peaks.runtimeconfig.json
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\bin\Debug\netcoreapp3.1\01. Climb the Peaks.runtimeconfig.dev.json
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\bin\Debug\netcoreapp3.1\01. Climb the Peaks.dll
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\bin\Debug\netcoreapp3.1\01. Climb the Peaks.pdb
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.csproj.AssemblyReference.cache
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.AssemblyInfoInputs.cache
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.AssemblyInfo.cs
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.csproj.CoreCompileInputs.cache
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.dll
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.pdb
+D:\Programs kvi\OOP\01. Climb the Peaks\01. Climb the Peaks\obj\Debug\netcoreapp3.1\01. Climb the Peaks.genruntimeconfig.cache
