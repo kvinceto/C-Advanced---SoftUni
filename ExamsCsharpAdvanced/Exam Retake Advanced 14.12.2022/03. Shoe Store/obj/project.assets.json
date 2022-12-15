@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\01. Climb the Peaks.csproj",
-      "projectName": "01. Climb the Peaks",
-      "projectPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\01. Climb the Peaks.csproj",
+      "projectUniqueName": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\03. Shoe Store\\ShoeStore.csproj",
+      "projectName": "ShoeStore",
+      "projectPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\03. Shoe Store\\ShoeStore.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\obj\\",
+      "outputPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\03. Shoe Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

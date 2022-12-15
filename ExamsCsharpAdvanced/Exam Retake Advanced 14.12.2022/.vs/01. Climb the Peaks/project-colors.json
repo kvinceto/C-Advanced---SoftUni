@@ -5,7 +5,17 @@
       "ProjectGuid": "ad0db13f-41e0-48ce-b630-3ffb8fc26994",
       "DisplayName": "01. Climb the Peaks",
       "ColorIndex": 0
+    },
+    "2ee1cbb5-5ff3-4149-9e9a-ddaaf0fe50ab": {
+      "ProjectGuid": "2ee1cbb5-5ff3-4149-9e9a-ddaaf0fe50ab",
+      "DisplayName": "02. Navy Battle",
+      "ColorIndex": 1
+    },
+    "b38e34fa-48e2-45f5-9b71-17e22d421690": {
+      "ProjectGuid": "b38e34fa-48e2-45f5-9b71-17e22d421690",
+      "DisplayName": "ShoeStore",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

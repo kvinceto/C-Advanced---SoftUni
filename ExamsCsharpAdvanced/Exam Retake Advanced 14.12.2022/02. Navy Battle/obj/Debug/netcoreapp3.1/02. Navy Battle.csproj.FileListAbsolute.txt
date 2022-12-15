@@ -1,0 +1,14 @@
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.exe
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.deps.json
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.runtimeconfig.json
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.runtimeconfig.dev.json
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.dll
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.pdb
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.AssemblyInfoInputs.cache
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.AssemblyInfo.cs
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.csproj.CoreCompileInputs.cache
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.dll
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.pdb
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.genruntimeconfig.cache
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.csproj.AssemblyReference.cache

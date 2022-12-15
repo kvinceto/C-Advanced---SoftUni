@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\01. Climb the Peaks.csproj": {}
+    "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\02. Navy Battle\\02. Navy Battle.csproj": {}
   },
   "projects": {
-    "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\01. Climb the Peaks.csproj": {
+    "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\02. Navy Battle\\02. Navy Battle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\01. Climb the Peaks.csproj",
-        "projectName": "01. Climb the Peaks",
-        "projectPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\01. Climb the Peaks.csproj",
+        "projectUniqueName": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\02. Navy Battle\\02. Navy Battle.csproj",
+        "projectName": "02. Navy Battle",
+        "projectPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\02. Navy Battle\\02. Navy Battle.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\01. Climb the Peaks\\obj\\",
+        "outputPath": "D:\\Programs kvi\\CSharp-Advanced-SoftUni\\ExamsCsharpAdvanced\\Exam Retake Advanced 14.12.2022\\02. Navy Battle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

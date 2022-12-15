@@ -1,0 +1,14 @@
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\bin\Debug\netcoreapp3.1\ShoeStore.exe
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\bin\Debug\netcoreapp3.1\ShoeStore.deps.json
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.json
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.dev.json
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\bin\Debug\netcoreapp3.1\ShoeStore.dll
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\bin\Debug\netcoreapp3.1\ShoeStore.pdb
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.csproj.AssemblyReference.cache
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfoInputs.cache
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfo.cs
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.csproj.CoreCompileInputs.cache
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.dll
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.pdb
+D:\Programs kvi\CSharp-Advanced-SoftUni\ExamsCsharpAdvanced\Exam Retake Advanced 14.12.2022\03. Shoe Store\obj\Debug\netcoreapp3.1\ShoeStore.genruntimeconfig.cache

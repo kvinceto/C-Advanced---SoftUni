@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Climb the Peaks", "01. Climb the Peaks\01. Climb the Peaks.csproj", "{AD0DB13F-41E0-48CE-B630-3FFB8FC26994}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Climb the Peaks", "01. Climb the Peaks\01. Climb the Peaks.csproj", "{AD0DB13F-41E0-48CE-B630-3FFB8FC26994}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Navy Battle", "02. Navy Battle\02. Navy Battle.csproj", "{2EE1CBB5-5FF3-4149-9E9A-DDAAF0FE50AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoeStore", "03. Shoe Store\ShoeStore.csproj", "{B38E34FA-48E2-45F5-9B71-17E22D421690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AD0DB13F-41E0-48CE-B630-3FFB8FC26994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD0DB13F-41E0-48CE-B630-3FFB8FC26994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD0DB13F-41E0-48CE-B630-3FFB8FC26994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE1CBB5-5FF3-4149-9E9A-DDAAF0FE50AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE1CBB5-5FF3-4149-9E9A-DDAAF0FE50AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE1CBB5-5FF3-4149-9E9A-DDAAF0FE50AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE1CBB5-5FF3-4149-9E9A-DDAAF0FE50AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38E34FA-48E2-45F5-9B71-17E22D421690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38E34FA-48E2-45F5-9B71-17E22D421690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38E34FA-48E2-45F5-9B71-17E22D421690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38E34FA-48E2-45F5-9B71-17E22D421690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
